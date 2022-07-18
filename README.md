@@ -60,9 +60,11 @@ An example how to include this role as a task:
 | CentOS 8.x     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Debian 9.x     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Debian 10.x    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question: |
+| Debian 11.x    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question: |
 | Ubuntu 16.04.x | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Ubuntu 18.04.x | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Ubuntu 20.04.x | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Ubuntu 22.04.x | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question: |
 | Fedora 33      | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question:    | :grey_question: |
 
 - :white_check_mark: - tested, works fine
