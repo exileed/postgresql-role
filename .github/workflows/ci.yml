@@ -47,10 +47,12 @@ jobs:
           - distro: centos8
           - distro: debian9
           - distro: debian10
+          - distro: debian11
           - distro: fedora33
           - distro: ubuntu1604
           - distro: ubuntu1804
           - distro: ubuntu2004
+          - distro: ubuntu2204
 
     steps:
       - name: Check out the codebase.
