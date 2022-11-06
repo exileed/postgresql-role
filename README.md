@@ -55,7 +55,7 @@ An example how to include this role as a task:
 #### Compatibility matrix
 
 | Distribution / PostgreSQL | 9.6 | 10 | 11 | 12 | 13 | 14 | 15 |  
-| ------------------------- |:---:|:--:|:--:|:--:|:--:|:--:|
+| ------------------------- |:---:|:--:|:--:|:--:|:--:|:--:|:--:|
 | CentOS 7.x     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | CentOS 8.x     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Debian 9.x     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
